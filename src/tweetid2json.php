@@ -12,10 +12,10 @@
 **************************************************/
 
 	// 設定
-	$api_key = 'EbiWS1ajkL4ndzSD1fDfJpaEo' ;		// APIキー
-	$api_secret = 'bUEuHglVOqLenozR9HmA2dzXOmHpTPcIcJLYCRFcCWCnUwZYRn' ;		// APIシークレット
-	$access_token = '3834611233-oEKCSTO50ble1tpupwRWCXeWgkZPczXzzYzkfe6' ;		// アクセストークン
-	$access_token_secret = 'BuwxDHgxi4mqPQRGC6VLUQz32O4NuB8HnSWr82qcvcoFT' ;		// アクセストークンシークレット
+	$api_key = '***' ;		// APIキー
+	$api_secret = '***' ;		// APIシークレット
+	$access_token = '***' ;		// アクセストークン
+	$access_token_secret = '***' ;		// アクセストークンシークレット
 	$request_url = 'https://api.twitter.com/1.1/statuses/lookup.json' ;		// エンドポイント
 	$request_method = 'GET' ;
 
